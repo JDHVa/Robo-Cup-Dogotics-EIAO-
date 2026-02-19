@@ -6,7 +6,8 @@ Acerca del robot
 Componentes
 
 
-Estrutura del repositoro
+Estrutura del repositorio:
+
 ../Documentacion: Lleva toda la documentación del proyecto, sobre que es cada cosa del root
 
 ../Programacion: Lleva la version mas actual de la programación del proyecto
